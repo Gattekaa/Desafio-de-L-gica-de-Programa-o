@@ -1,4 +1,4 @@
-n = 10
+n = 20
 string = "";
 for (let i = 0; i < n / 2; i++) {
   for (let j = 0; j < i; j++) {
