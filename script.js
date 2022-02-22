@@ -1,4 +1,4 @@
-n = 20
+function ampulheta(n){
 string = "";
 for (let i = 0; i < n / 2; i++) {
   for (let j = 0; j < i; j++) {
@@ -48,3 +48,4 @@ for (let i = 1; i <= n / 2; i++) {
 }
 
 console.log(string);
+}
